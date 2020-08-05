@@ -983,10 +983,6 @@ const openApiDocumentation = {
             type: "string",
             description: "User New Password",
           },
-          confirmNewPassword: {
-            type: "string",
-            description: "Confirm new Password",
-          },
         },
       },
       Reset: {
